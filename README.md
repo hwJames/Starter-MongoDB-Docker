@@ -1,13 +1,13 @@
 <br/>
 <h2 align="center">
-Docker-MariaDB
+Docker-MongoDB
 </h2>
 
 ### Installation
 
 1. Clone the repo
    ```sh
-   git clone https://github.com/hwJames/Docker-MariaDB.git
+   git clone https://github.com/hwJames/Docker-MongoDB.git
    git pull
    ```
 
@@ -15,6 +15,7 @@ Docker-MariaDB
    ```sh
    vi .env
    vi docker-compose.yml
+   vi mongo-init.js
    ```
 
 3. Docker Compose Start
